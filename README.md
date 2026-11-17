@@ -60,13 +60,13 @@ $pdf$4*4*128*-1028*1*16*ca7f72f11459cba469f1005a8765ed51*32*f32d8fa1bfbe2648226d
  
 I saved the extracted hash as a `.txt` file inside my working folder (`Cybersecurity Int\WK3`) so it could be loaded into Johnny.
  
-![Screenshot 2 – Saving the hash to a text file](evidence/2_hash_saved_as_txt.png)
+![Screenshot 2 – Saving the hash to a text file](screenshoot/A4.jpg)
  
 **Step 3 – Configure Johnny**
  
 In Johnny's **Settings** tab, I pointed the "John the Ripper executable" field to the Jumbo build of John (`D:/Setup/john-1.9.0-jumbo-1-win64/run/john.exe`). Johnny confirmed the detected version: John the Ripper 1.9.0-jumbo-1 OMP (cygwin 64-bit x86_64 AVX2 AC).
  
-![Screenshot 3 – Johnny Settings, John the Ripper path configured](evidence/3_johnny_settings.png)
+![Screenshot 3 – Johnny Settings, John the Ripper path configured](screenshoot/A2.jpg)
  
 **Step 4 – Load the hash file**
  
