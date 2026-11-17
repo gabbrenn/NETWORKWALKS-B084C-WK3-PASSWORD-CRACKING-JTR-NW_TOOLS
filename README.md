@@ -101,7 +101,7 @@ I opened the Networkwalks **Hash Calculator** tool, selected the **PDF** tab, an
 $pdf$4*4*128*-1028*1*16*0853f2cde0ef15b1c0f93ed229d3b1ad*32*8f13ce5aa39ad974364d36a057da76790021446990b9e4114071a4d9104984c1*32*ceecdac74b19b5a62688d3b3524e1374c955cbb9cc3c45316494d9446ef81af1
 ```
  
-![Screenshot 8 – Networkwalks Hash Calculator](evidence/8_networkwalks_hash_calculator.png)
+![Screenshot 8 – Networkwalks Hash Calculator](screenshoot/B1.jpg)
  
 **Step 2 – Run the dictionary attack**
  
@@ -115,7 +115,7 @@ The tool worked through the list at about 9 passwords/second, testing common and
 |---|---|---|
 | 91 / 100 (91%) | 9 pw/s | **`password1`** ✔ |
  
-![Screenshot 9 – Networkwalks Password Cracker, match found](evidence/9_networkwalks_password_cracker.png)
+![Screenshot 9 – Networkwalks Password Cracker, match found](screenshoot/B2.jpg)
  
 **Step 4 – Verify the password**
  
