@@ -84,13 +84,13 @@ I started the attack from Johnny. It ran John the Ripper against the hash in the
 |---|---|---|---|
 | `?` | **`good-luck`** | PDF | 1 cracked / 0 left (100%) |
  
-![Screenshot 6 – Johnny showing the cracked password](screenshoot/A5.jpg)
- 
+![Screenshot 6 – Johnny showing the cracked password](screenshoot/A6.jpg)
+![Screenshot 6 – Johnny showing the cracked password](screenshoot/A7.jpg) 
 **Step 6 – Verify the password**
  
 I opened `My Locked PDF1.pdf` and entered `good-luck`. The file unlocked successfully and displayed the lab's "Congratulations" confirmation page.
  
-![Screenshot 7 – My Locked PDF1.pdf unlocked](screenshoot/A7.jpg)
+![Screenshot 7 – My Locked PDF1.pdf unlocked](screenshoot/A8.jpg)
  
 ---
  
