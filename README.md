@@ -140,7 +140,7 @@ This exercise showed me how quickly a weak password can be recovered once an att
 **👤 Author**
  
 **GABIRO Vladimir Brenn**
-Cybersecurity Professional B082
+Cybersecurity Professional B084
  
 **📌 Project Information**
  
