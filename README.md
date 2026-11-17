@@ -54,7 +54,7 @@ I uploaded `My Locked PDF1.pdf` to the Online Hash Crack **PDF Hash Extractor** 
 $pdf$4*4*128*-1028*1*16*ca7f72f11459cba469f1005a8765ed51*32*f32d8fa1bfbe2648226dffc39f7909ea0021446990b9e4114071a4d9104984c1*32*9322f50c29569712067a775264635e4954ccb1b99e209d664984054ffad30a6a
 ```
  
-![Screenshot 1 – PDF Hash Extractor](evidence/1_onlinehashcrack_extractor.png)
+![Screenshot 1 – PDF Hash Extractor](screenshoot/A3.jpg)
  
 **Step 2 – Save the hash to a text file**
  
